@@ -1,6 +1,6 @@
 # aueb-mini-projects
 
-## Athens Univercity of Economics and Business ([AUEB](https://aueb.gr/))
+## Athens University of Economics and Business ([AUEB](https://aueb.gr/))
 [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) Java Projects. Chapter 10. Mini-Projects
 
 ## Projects info
